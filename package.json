@@ -1,0 +1,27 @@
+{
+  "name": "react-native-dimensions-breakpoints",
+  "version": "1.0.0",
+  "description": "Allows code to make decisions based on named \"breakpoints\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/react-native-dimensions-breakpoints.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "responsive",
+    "breakpoint",
+    "dimensions",
+    "size"
+  ],
+  "author": "rangermauve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/react-native-dimensions-breakpoints/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/react-native-dimensions-breakpoints#readme"
+}
