@@ -20,6 +20,6 @@ Breakpoints.configure({
 if(Breakpoints.smallerThan("iphone"))
 	console.log("On a tiny mobile device");
 
-if(Breakpoints.largerThan("ipad))
+if(Breakpoints.largerThan("ipad"))
 	console.log("Might be an iPad pro or some huge tablet");
 ```
